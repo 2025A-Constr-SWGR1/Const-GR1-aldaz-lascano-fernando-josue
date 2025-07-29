@@ -1,11 +1,11 @@
 {
-  "name": "2025a-swgr1-vaes-suma",
+  "name": "2025a-swgr1-alfj-suma",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Vicente Adrian Eguez Sarzosa",
+  "author": "Fernando Josue Aldaz Lascano",
   "license": "ISC",
   "description": ""
 }
