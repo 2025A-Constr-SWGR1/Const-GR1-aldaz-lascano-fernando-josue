@@ -10,8 +10,8 @@ export class AppController {
   ) {}
 
   @Get('database')
-  getDatabaseInformation() {
-    return{
+  getDatabaseInformation(){
+    return {
       DB_HOST: this.configService.get('DB_HOST'),
       DB_USER: this.configService.get('DB_USER'),
       DB_PASSWORD: this.configService.get('DB_PASSWORD'),

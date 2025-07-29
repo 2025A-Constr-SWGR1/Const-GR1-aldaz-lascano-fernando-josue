@@ -1,14 +1,19 @@
 {
-  "devDependencies": {
-    "@eslint/js": "^9.29.0",
-    "@typescript-eslint/eslint-plugin": "^8.34.1",
-    "@typescript-eslint/parser": "^8.34.1",
-    "eslint": "^9.29.0",
-    "eslint-config-prettier": "^10.1.5",
-    "eslint-plugin-prettier": "^5.5.0",
-    "eslint-plugin-react": "^7.37.5",
-    "globals": "^16.2.0",
-    "prettier": "^3.5.3",
-    "typescript-eslint": "^8.34.1"
-  }
+  "name": "2025a-swgr1-alfj-suma",
+  "version": "1.0.0",
+  "description": "Const-GR1-eguez-sarzosa-vicente-adrian\r Hola mundo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2025A-Constr-SWGR1/Const-GR1-aldaz-lascano-fernando-josue.git"
+  },
+  "author": "Fernando Josue Aldaz Lascano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2025A-Constr-SWGR1/Const-GR1-aldaz-lascano-fernando-josue/issues"
+  },
+  "homepage": "https://github.com/2025A-Constr-SWGR1/Const-GR1-aldaz-lascano-fernando-josue#readme"
 }
