@@ -4,5 +4,5 @@ exports.suma = (numeroUno, numeroDos) => {
     if (isNaN(numeroUno) || isNaN(numeroDos)) {
         throw new Error('No son numeros validos')
     }
-    return numeroUnoCasteado + numeroDosCasteado
+    return numeroUnoCasteado + numeroDosCasteado;
 }
